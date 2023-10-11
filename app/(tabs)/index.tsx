@@ -5,7 +5,7 @@ import EditScreenInfo from '../../components/EditScreenInfo';
 import { Text, View } from '../../components/Themed';
 
 export default function TabOneScreen() {
-    return <HomePage />; // Replace the content with your HomePage component
+    return <HomePage />; 
   }
 
 const styles = StyleSheet.create({
