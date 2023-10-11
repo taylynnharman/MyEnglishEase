@@ -62,8 +62,8 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   buttonImage: {
-    width: 100, // Adjust the width as needed
-    height: 100, // Adjust the height as needed
+    width: 100, 
+    height: 100,
   },
 });
 
