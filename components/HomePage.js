@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, StyleSheet, Button, TouchableOpacity, Image } from 'react-native';
 
-const HomePage = ({ navigation }) => {
+const HomePage = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Welcome to EnglishEase</Text>
